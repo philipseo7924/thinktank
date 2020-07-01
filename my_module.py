@@ -7,4 +7,5 @@ def mul(a, b):
 def div(a, b):
 	return a/b
 
-Hello world!
+def test(a, b, c):
+	return a+b+c
